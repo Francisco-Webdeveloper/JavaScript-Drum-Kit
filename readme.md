@@ -6,6 +6,7 @@ When you hit the corresponding key on your keyboard:
 * it plays the sound associated with that key
 * it does a short animation where it scales up the button and apply a colorful border.
 
+https://user-images.githubusercontent.com/67716187/142288823-0db7764c-2733-471a-9566-38f65ef775f0.mov
 
 ## Specs
 
